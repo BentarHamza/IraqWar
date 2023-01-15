@@ -74,7 +74,38 @@ In the 2003–2011 Iraq War, Improvised explosive devices have been used extensi
 <img src ="https://github.com/BentarHamza/IraqWar/blob/main/photos/pourcentagedeath.PNG">
 </p>
 
->__interpretetion__
-> More than 
+>__interpretation__
+> More than 7.2 % of civilians in those records are dead by direct fire. If this term means that coalision forces was directly targeting civilians, then it is a very significant number and it is necessary to start legal actions against those responsible. 
 
-<h3> $\textcolor{BurntOrange}{\text{II.3 Analysis of the number of deaths and injuries by categories}}$ </h3>
+> 45 % of civilians deaths are caused by military actions (Attack - Direct Fire - Escalation of Force - Indirect Fire)
+
+<h3> $\textcolor{BurntOrange}{\text{II.4 Analysis of the number of deaths and injuries by Coalition Division}}$ </h3>
+
+Coalition Forces or Multi-National Force – Iraq was a military command during the 2003 invasion of Iraq and much of the ensuing Iraq War, led by the United States of America (Operation Iraqi Freedom), United Kingdom (Operation Telic), Australia, Italy (Operation Ancient Babylon), Spain and Poland, responsible for conducting and handling military operations. the geographic presence of those divisions is shown in the map below
+
+
+<p align="center">
+<img src ="https://github.com/BentarHamza/IraqWar/blob/main/photos/Iraq_2003_occupation.png" width ="400" height = "350">
+</p>
+
+
+<p align="center">
+<img src ="https://github.com/BentarHamza/IraqWar/blob/main/photos/deadbydivision.PNG">
+</p>
+
+<p align="center">
+<img src ="https://github.com/BentarHamza/IraqWar/blob/main/photos/pourcentagekilldivision.PNG">
+</p>
+
+>__interpretation__
+> The number in civilian death is more frequent in division MND-baghdad, MND-C and MND-N. those divisions are formed with US Army under US generals. 
+
+
+<h3> $\textcolor{BurntOrange}{\text{II.5 Analysis of the number of deaths and injuries by time}}$ </h3>
+
+<p align="center">
+<img src ="https://github.com/BentarHamza/IraqWar/blob/main/photos/killedbytime.PNG">
+</p>
+
+>__interpretation__
+> The number in civilian death is more frequent in division MND-baghdad, MND-C and MND-N. those divisions are formed with US Army under US generals. 

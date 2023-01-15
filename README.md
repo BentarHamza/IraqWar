@@ -6,6 +6,9 @@
 </p>
 The idea of analysing this historical event has growing in my mind after watching  former President George W. Bush accidentally switched "Ukraine" with "Iraq" in a line meant to criticize Vladimir Putin's "wholly unjustified and brutal invasion.", in a  <a href="https://www.youtube.com/watch?v=lrnaqpkBmOA&ab_channel=GuardianNews">speech</a> at his presidential center in Texas.
 
+>__Warning__
+> Before your trip inside details, Please note that I am not a specialist in geopolitics and armed conflicts. I am only a data neurd with a passion for current events in international Politics and the History of the globe. 
+
 <h2> $\textcolor{brown}{\text{I. Analysing President George W. Bush speech declaring War against Iraq using (Audio Data)}}$ </h2>
 In this part of my work 
 
@@ -108,4 +111,18 @@ Coalition Forces or Multi-National Force – Iraq was a military command during 
 </p>
 
 >__interpretation__
-> The number in civilian death is more frequent in division MND-baghdad, MND-C and MND-N. those divisions are formed with US Army under US generals. 
+> Everyday, one civilian was killed by direct fire from the Multi-National Division North leaded by Major General Robert L. Caslen Jr in in 6 years of invasion (the period between the first report and the last report in this dataset). 
+
+> 2006 was the begining of The Iraqi civil war was a civil war <a href="https://en.wikipedia.org/wiki/Iraqi_civil_war_(2006%E2%80%932008)">civil war </a> fought mainly between the Iraqi government along with American-led coalition forces and various sectarian armed groups. It was unbelievably brutal and that's can be observed in our analysis
+
+> More that one civilian was killed every hour for 6 years of invasion (the period between the first report and the last report in this dataset
+
+> 2 Civilians are killed by direct firing from coalition army everyday day in 6 years (the period between the first report and the last report in this dataset). that's represents the third cause of civilian death in those reported incidents.
+
+<h3> $\textcolor{BurntOrange}{\text{II.5 Analysis of the number of deaths and injuries by geolocalisation }}$ </h3>
+
+>__interpretation__
+> After grouping the number of dead civilians by geolocation of reports in our dataset we clearly observe a concentration of deaths in the north and center of the country. 
+
+
+

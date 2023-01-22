@@ -7,7 +7,7 @@
 The idea of analysing this historical event has growing in my mind after watching  former President George W. Bush accidentally switched "Ukraine" with "Iraq" in a line meant to criticize Vladimir Putin's "wholly unjustified and brutal invasion.", in a  <a href="https://www.youtube.com/watch?v=lrnaqpkBmOA&ab_channel=GuardianNews">speech</a> at his presidential center in Texas.
 
 >__Warning__
-> Before your trip inside details, Please note that I am not a specialist in geopolitics and armed conflicts. I am only a data neurd with a passion for current events in international Politics and the History of the globe. 
+> Before your trip inside details, Please note that I am not a specialist in geopolitics and armed conflicts. I am only a data nerd with a passion for current events in international Politics and the History of the globe. 
 
 <h2> $\textcolor{brown}{\text{I. Analysing President George W. Bush speech declaring War against Iraq using (Audio Data)}}$ </h2>
 In this part of my work 

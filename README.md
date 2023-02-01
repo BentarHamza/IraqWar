@@ -14,9 +14,9 @@ In this part of my work
 
 >__Warning__
 > This is a warning.
-
+<div>
 <h2> $\textcolor{brown}{\text{II. Analysis Iraq deaths and wounded in USA invasion between 2004 and 2009}}$ </h2>
-
+</div>
 
 > __Note__
 > About dataset.

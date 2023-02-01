@@ -9,14 +9,14 @@ The idea of analysing this historical event has growing in my mind after watchin
 >__Warning__
 > Before your trip inside details, Please note that I am not a specialist in geopolitics and armed conflicts. I am only a data nerd with a passion for current events in international Politics and the History of the globe. 
 
- # $\textcolor{brown}{\text{I. Analysing President George W. Bush speech declaring War against Iraq using (Audio Data)}}$
+ <h2> $\textcolor{brown}{\text{I. Analysing President George W. Bush speech declaring War against Iraq using (Audio Data)}}$ </h2>
 
 In this part of my work 
 
 >__Warning__
 > This is a warning.
 
-<h2> $\textcolor{brown}{\text{II. Analysis Iraq deaths and wounded in USA invasion between 2004 and 2009}}$ </h2>
+<h2 word-wrap: "break-word"> $\textcolor{brown}{\text{II. Analysis Iraq deaths and wounded in USA invasion between 2004 and 2009}}$ </h2>
 
 
 > __Note__

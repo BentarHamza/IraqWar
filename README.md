@@ -9,22 +9,21 @@ The idea of analysing this historical event has growing in my mind after watchin
 >__Warning__
 > Before your trip inside details, Please note that I am not a specialist in geopolitics and armed conflicts. I am only a data nerd with a passion for current events in international Politics and the History of the globe. 
 
- <h2> $\textcolor{brown}{\text{I. Analysing President George W. Bush speech declaring War against Iraq using (Audio Data)}}$ </h2>
+## I. Analysing President George W. Bush speech declaring War against Iraq using (Audio Data):
 
-In this part of my work 
+
 
 >__Warning__
 > This is a warning.
 
-<h2 word-wrap: "break-word"> $\textcolor{brown}{\text{II. Analysis Iraq deaths and wounded in USA invasion between 2004 and 2009}}$ </h2>
-
+## II. Analysis Iraq deaths and wounded in USA invasion between 2004 and 2010: 
 
 > __Note__
 > About dataset.
 
 this data is published in <a href="https://www.theguardian.com/news/datablog/2010/oct/23/wikileaks-iraq-data-journalism">The Guardian Datablog</a>. this data is originaly leaked by <a href="https://wikileaks.org/">Wikileaks</a> giving journalists and NGO 391 000 records of the Iraq War. Every minor detail is now in front of us to analyse and breakdown. I am particularly interested in the civilian dead and wounded of this war. 
 
-<h3> $\textcolor{BurntOrange}{\text{II.1 Adding some context to every column}}$ </h3>
+### II.1 Adding some context to every column
 
 Column names |  My explanation after the preliminary analysis |
 --- | --- |
@@ -38,7 +37,7 @@ Civilian wia   | Number of civilians wounded in action  |
 Civilian kia  | Number of civilians killed in action  | 
 
 
-<h3> $\textcolor{BurntOrange}{\text{II.2 Some major facts and figures}}$ </h3>
+### II.2 Some major facts and figures
 
 The first very disturbing observation is that 60% of the deaths in the recorded cases are civilians. In armed conflicts, the civilian - combatant ratio ( the ratio of civilian casualties to combatant casualties) is a measurment that can be applied to describe the casualties in war. I calculated it and compare it with <a href="https://wikileaks.org/"> others conflicts in the in the last century</a>
 
@@ -52,7 +51,7 @@ $\textcolor{Red}{\text{Our data}}$   | $\textcolor{Red}{\text{3:2}}$ |
 
 this ratio should be calculated with the total dead recorded by independent organizations but it clearly demonstrates the tremendous brutality of this war, The death of two combatants in this conflict provokes the death of three civilians.
 
-<h3> $\textcolor{BurntOrange}{\text{II.3 Analysis of the number of deaths and injuries by categories}}$ </h3>
+### II.3 Analysis of the number of deaths and injuries by categories
 
 > __Note__
 > About our results.
@@ -78,12 +77,12 @@ In the 2003–2011 Iraq War, Improvised explosive devices have been used extensi
 <img src ="https://github.com/BentarHamza/IraqWar/blob/main/photos/pourcentagedeath.PNG">
 </p>
 
->__interpretation__
+>__Interpretation__
 > More than 7.2 % of civilians in those records are dead by direct fire. If this term means that coalision forces was directly targeting civilians, then it is a very significant number and it is necessary to start legal actions against those responsible. 
 
 > 45 % of civilians deaths are caused by military actions (Attack - Direct Fire - Escalation of Force - Indirect Fire)
 
-<h3> $\textcolor{BurntOrange}{\text{II.4 Analysis of the number of deaths and injuries by Coalition Division}}$ </h3>
+II.4 Analysis of the number of deaths and injuries by Coalition Division:
 
 Coalition Forces or Multi-National Force – Iraq was a military command during the 2003 invasion of Iraq and much of the ensuing Iraq War, led by the United States of America (Operation Iraqi Freedom), United Kingdom (Operation Telic), Australia, Italy (Operation Ancient Babylon), Spain and Poland, responsible for conducting and handling military operations. the geographic presence of those divisions is shown in the map below
 
@@ -101,17 +100,17 @@ Coalition Forces or Multi-National Force – Iraq was a military command during 
 <img src ="https://github.com/BentarHamza/IraqWar/blob/main/photos/pourcentagekilldivision.PNG">
 </p>
 
->__interpretation__
+>__Interpretation__
 > The number in civilian death is more frequent in division MND-baghdad, MND-C and MND-N. those divisions are formed with US Army under US generals. 
 
 
-<h3> $\textcolor{BurntOrange}{\text{II.5 Analysis of the number of deaths and injuries by time}}$ </h3>
+### II.5 Analysis of the number of deaths and injuries by time:
 
 <p align="center">
 <img src ="https://github.com/BentarHamza/IraqWar/blob/main/photos/killedbytime.PNG">
 </p>
 
->__interpretation__
+>__Interpretation__
 > Everyday, one civilian was killed by direct fire from the Multi-National Division North leaded by Major General Robert L. Caslen Jr in in 6 years of invasion (the period between the first report and the last report in this dataset). 
 
 > 2006 was the begining of The Iraqi civil war was a civil war <a href="https://en.wikipedia.org/wiki/Iraqi_civil_war_(2006%E2%80%932008)">civil war </a> fought mainly between the Iraqi government along with American-led coalition forces and various sectarian armed groups. It was unbelievably brutal and that's can be observed in our analysis
@@ -122,7 +121,7 @@ Coalition Forces or Multi-National Force – Iraq was a military command during 
 
 <h3> $\textcolor{BurntOrange}{\text{II.5 Analysis of the number of deaths and injuries by geolocalisation }}$ </h3>
 
->__interpretation__
+>__Interpretation__
 > After grouping the number of dead civilians by geolocation of reports in our dataset we clearly observe a concentration of deaths in the north and center of the country. 
 
 

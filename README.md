@@ -119,7 +119,7 @@ Coalition Forces or Multi-National Force – Iraq was a military command during 
 
 > 2 Civilians are killed by direct firing from coalition army everyday day in 6 years (the period between the first report and the last report in this dataset). that's represents the third cause of civilian death in those reported incidents.
 
-<h3> $\textcolor{BurntOrange}{\text{II.5 Analysis of the number of deaths and injuries by geolocalisation }}$ </h3>
+### II.5 Analysis of the number of deaths and injuries by geolocalisation:
 
 >__Interpretation__
 > After grouping the number of dead civilians by geolocation of reports in our dataset we clearly observe a concentration of deaths in the north and center of the country. 

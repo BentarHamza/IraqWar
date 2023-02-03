@@ -6,15 +6,48 @@
 </p>
 The idea of analysing this historical event has growing in my mind after watching  former President George W. Bush accidentally switched "Ukraine" with "Iraq" in a line meant to criticize Vladimir Putin's "wholly unjustified and brutal invasion.", in a  <a href="https://www.youtube.com/watch?v=lrnaqpkBmOA&ab_channel=GuardianNews">speech</a> at his presidential center in Texas.
 
+
+
 >__Warning__
 > Before your trip inside details, Please note that I am not a specialist in geopolitics and armed conflicts. I am only a data nerd with a passion for current events in international Politics and the History of the globe. 
+--------------------------------
+<h1 align="center">SUMMARY</h1>
+
+## I. Analysing President George W. Bush speech declaring War against Iraq using (Audio Data)
+### I.1 Importing tool and using API  
+### I.2 sentimental analysis
+## II. Analysis Iraq deaths and wounded in USA invasion between 2004 and 2010
+### II.1 Adding some context to every column
+### II.2 Some major facts and figures
+### II.3 Analysis of the number of deaths and injuries by categories
+### II.5 Analysis of the number of deaths and injuries by time
+### II.6 Analysis of the number of deaths and injuries by geolocalisation
+----------------------------
+
+
 
 ## I. Analysing President George W. Bush speech declaring War against Iraq using (Audio Data):
 
+### I.1 Importing tool and using API: 
 
+We use in our analysis an artificial intelligence  tool named **AssemblyAI's**, an API that can automatically convert audio, video files or live audio streams to text with Speech-to-Text APIs. it does more with Audio Intelligence - summarization, content moderation, topic detection, and more. Powered by cutting-edge AI models. We use other NPL tools to do some analysis
 
->__Warning__
-> This is a warning.
+For more information and demo please visit: https://www.assemblyai.com/?utm_source=youtube&utm_medium=social&utm_campaign=thuvu1
+### I.2 sentimental analysis: 
+Results can be resumed in table as following : 
+
+<p align="center">
+<img src ="https://github.com/BentarHamza/IraqWar/blob/main/photos/sentiment_table.PNG">
+</p>
+
+We think that the best presentation of those results is a sentiment in every sentence by time of speech (see the following visualization).
+
+<p align="center">
+<img src ="https://github.com/BentarHamza/IraqWar/blob/main/photos/Sentiment_graphe.PNG">
+</p>
+
+>__Interpretation__: 
+>The speech begin with sentimentally neutral Statements. After that President George W. Bush begin to use a positive sentences in his speech. I think using neutral and/or positive statement in the beginnig of speech is very important strategy if speeker want to annonce a bad new because starting our speech with bad news can disturb listner. We observe clearly that all negatives statements are in the middle of his speech. And after annoncing all negatives news to USA citizens, he finish his speech with positive statement to ease the worries of americans.
 
 ## II. Analysis Iraq deaths and wounded in USA invasion between 2004 and 2010: 
 
@@ -119,10 +152,12 @@ Coalition Forces or Multi-National Force – Iraq was a military command during 
 
 > 2 Civilians are killed by direct firing from coalition army everyday day in 6 years (the period between the first report and the last report in this dataset). that's represents the third cause of civilian death in those reported incidents.
 
-### II.5 Analysis of the number of deaths and injuries by geolocalisation:
+### II.6 Analysis of the number of deaths and injuries by geolocalisation:
 
 >__Interpretation__
 > After grouping the number of dead civilians by geolocation of reports in our dataset we clearly observe a concentration of deaths in the north and center of the country. 
-
+<p align="center">
+<img src ="https://github.com/BentarHamza/IraqWar/blob/main/photos/map.PNG">
+</p>
 
 
